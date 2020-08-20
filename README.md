@@ -1,17 +1,15 @@
 # dataAugmentation
-<br>
-Augmentation of Image Data -> we change the image with notes without changing the meaning of the data.
-<br>
 
-This augmentation slightly changes the original data, with the aim of:
+Augmentation of Image Data -> **we change the image with notes without changing the meaning of the data.**
 <br>
+<br>
+This augmentation slightly changes the original data, with the aim of:
 
 - to further enrich our data
 - increase generality (reduce overfit)
 
 <br>
 Some of the transform techniques we use:
-<br>
 
 - Random Crop
 - Random Flip
