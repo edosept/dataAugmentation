@@ -2,6 +2,7 @@
 <br>
 Augmentation of Image Data -> we change the image with notes without changing the meaning of the data.
 <br>
+
 This augmentation slightly changes the original data, with the aim of:
 <br>
 
