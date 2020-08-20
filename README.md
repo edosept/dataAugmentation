@@ -1,14 +1,17 @@
-# data_Augmentation
-Augmentasi Data Image --> **gambar kita edit sedikit dengan catatan tanpa merubah makna dari data tersebut**
-
-augmentasi ini sedikit mengubah data asli, dengan tujuan:
-- untuk lebih memperkaya data kita<br>
-- meningkatkan generality (mengurangi overfit)<br>
-- menambah data<br>
-
+# dataAugmentation
+<br>
+Augmentation of Image Data -> we change the image with notes without changing the meaning of the data.
+<br>
+This augmentation slightly changes the original data, with the aim of:
 <br>
 
-Beberapa teknik transform yang kita gunakan:
+- to further enrich our data
+- increase generality (reduce overfit)
+
+<br><br>
+Some of the transform techniques we use:
+<br>
+
 - Random Crop
 - Random Flip
 - Random Rotation
@@ -17,4 +20,4 @@ Beberapa teknik transform yang kita gunakan:
 - Color Jitter
 
 <br><br>
-*pada akhirnya augmentasi ini memperkaya pengetahuan mesin untuk tetap belajar dari gambar gambar yang sudah kita augmentasi tadi.*
+*In the end, this augmentation would enrich machine knowledge to keep learning from the images that we augmented earlier.*
