@@ -9,7 +9,7 @@ This augmentation slightly changes the original data, with the aim of:
 - to further enrich our data
 - increase generality (reduce overfit)
 
-<br><br>
+<br>
 Some of the transform techniques we use:
 <br>
 
